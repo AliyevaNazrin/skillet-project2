@@ -215,8 +215,8 @@ align-items: center;
  @media(min-width:700px) {
     .introduction .intro-top-side {
        position: absolute;
-       left: 205px;
-       top: 147px;
+       left: 322px;
+       top: 228px;
     }
 
     .introduction .intro-top-side h3 {
@@ -246,6 +246,11 @@ align-items: center;
        top: 62px;
 
     }
+    .introduction .intro-top-side {
+      position: absolute;
+      left: 49px;
+      top: 80px;
+   }
    
     .introduction .intro-top-side h3 {
        margin-bottom: 10px;
