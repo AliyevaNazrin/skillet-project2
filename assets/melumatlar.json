@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Side Bowls",
+        "set": "SET OF 4-$45",
+        "text": "Hand-painted porcelain stackable bowls, designed for plating, eating, and scooping.",
+        "photo": "assets/images/editions/sekil1.svg"
+       
+    },
+    {
+        "name": "Drinking Glasses",
+        "set":"SET OF 4-$50" ,
+        "text":"Hand-made and stackable. Made from recycled glass and natural sand. Naturally colored, without dyes." ,
+        "photo": " assets/images/editions/sekil2.svg"
+    },
+
+    {
+        "name": "Main Plates",
+        "set": "SET OF 4-$50",
+        "text": "Hand-painted porcelain plates, stackable and designed for big appetites.",
+        "photo": " assets/images/editions/sekil3.svg"
+    },
+    {
+        "name": "Always Pan",
+        "set": "$145",
+        "text": "Thoughtfully designed to be the perfect size and shape to do the work of eight pieces of traditional cookware.",
+        "photo": " assets/images/editions/sekil4.svg"
+    }
+]
